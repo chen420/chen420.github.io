@@ -28,31 +28,59 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+   facebook: chen420
   # hackerrank: your_username
-  # instagram: your_username
+   instagram: hchen420
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: chen420
   # mastodon: your_username
-  # medium: your_username
+   medium: chen420
   # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+   telegram: hchen420
+   twitter: hchen420
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+   website: http://chenlab.net
+   youtube: HongChen420
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: WordPress
+    web_url: https://github.com/topics/wordpress
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png
 
-  - name: Web design
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
+    
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
+
+  - name: linux
+    web_url: https://github.com/topics/json
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
+  - name: MySQL
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png
+
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+  - name: JSON
+    web_url: https://github.com/topics/json
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png
+
