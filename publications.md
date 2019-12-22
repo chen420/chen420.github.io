@@ -1,8 +1,9 @@
 ---
 layout: default
+published: true
 ---
 
-## Publications
+# Publications
 
 * [Google Scholar](https://scholar.google.co.jp/citations?user=Tkhld1sAAAAJ&hl=en)
 * [Mendeley](https://www.mendeley.com/profiles/hong-chen3/)
