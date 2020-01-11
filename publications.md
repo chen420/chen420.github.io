@@ -3,9 +3,6 @@ layout: default
 published: true
 title: Publications
 ---
----
-layout: default
----
 
 # Publications
 
